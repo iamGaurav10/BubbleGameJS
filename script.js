@@ -69,3 +69,5 @@ document.querySelector("#start").addEventListener("click",()=>{
 
 generateRandomNumber();
 genrateBubbles();
+
+// Happy to commit second tiem just for fun !!
